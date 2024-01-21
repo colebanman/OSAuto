@@ -1,0 +1,24 @@
+{
+    "sku": "ID2349",
+    "sizes": [
+        "11",
+        "12"
+    ],
+    "profiles": [
+        {
+            "full_name": "",
+            "email": "",
+            "phone": "",
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": "",
+            "card_number": "",
+            "card_exp_month": "",
+            "card_exp_year": "",
+            "card_cvv": ""
+        }
+    ]
+}
